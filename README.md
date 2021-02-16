@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0x4ngK4n
+- 👋 Hi, I’m Angkan Chanda
 - 👀 I’m interested in all things Information Security such as Web/Mobile Application Assessments, Reverse Engineering, and Automation.
 - 🌱 I’m currently learning Golang, VueJS
 - 📫 You can reach me at angkan0889[at]gmail[dot]com
