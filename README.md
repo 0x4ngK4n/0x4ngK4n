@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angkan Chanda
 - 👀 I’m interested in all things Information Security such as Web/Mobile Application Assessments, Reverse Engineering, and Automation.
-- 🌱 I’m currently learning Golang, VueJS
+- 🌱 I’m currently learning Golang, Mithril
 - 📫 You can reach me at angkan0889[at]gmail[dot]com
 
 <!---
