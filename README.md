@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Angkan Chanda
-- 👀 I’m interested in all things Information Security such as Web/Mobile Application Assessments, Reverse Engineering, and Automation.
+- 👋 Hey fellow humans, I'm purple_achan! 
+- 👀 I’m interested in things such as Information Security and Automation.
 - 🌱 I’m currently learning Golang, Mithril
-- 📫 You can reach me at angkan0889[at]gmail[dot]com
 
 <!---
 0x4ngK4n/0x4ngK4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
